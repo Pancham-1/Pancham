@@ -1,7 +1,7 @@
 
 ### Hi there 👋, I am Pancham
 #### Beginner Programmer
-![Beginner Programmer](.png)
+
 
 I am a student who is trying out different programming projects and languages. Through this platform I would like to share some of the projects that I have made and learn more about software development from the github community.
 I have made some basic projects that would be helpful for starters. These includes a BMI Calculator, Rock/Paper/Scissors Game, Personal Shopping Cart etc. 
